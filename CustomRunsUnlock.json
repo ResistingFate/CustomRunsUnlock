@@ -1,0 +1,11 @@
+{
+  "id": "CustomRunsUnlock",
+  "name": "CustomRunsUnlock",
+  "author": "xyzlewis",
+  "description": "Allows Custom Runs and Daily Runs to unlock Achievements and Epochs.",
+  "version": "v1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
