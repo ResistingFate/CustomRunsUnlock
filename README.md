@@ -1,7 +1,7 @@
 # CustomRunsUnlock
 
 CustomRunsUnlock lets you unlock Ascensions, Epoches, and Achievements in Custom and Daily Runs.
-
+(Works for v0.107.1)
 <img src="CustomRunsUnlock/combined_smooth_transition_8mb.gif" alt="Alt Text" width="480" />
 
 Note the relics up top confirming the mode is daily challenge and that the ascension is lv 1, and after victory the Epoch unlocks and the next ascension is lv 2.

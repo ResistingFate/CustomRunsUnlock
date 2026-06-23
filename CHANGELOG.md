@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-06-23
+
+### Fixes
+- Updated to work with sts2 v0.107.1
+
 ## [1.0.0] - 2026-03-27
 
 ### Added
